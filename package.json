@@ -1,0 +1,37 @@
+{
+  "name": "test-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "test:unit": "vue-cli-service test:unit"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "firebase": "^5.5.2",
+    "image-to-base64": "^2.0.1",
+    "jquery-file-download": "^1.4.6",
+    "js-base64": "^2.4.9",
+    "vue": "^2.5.17",
+    "vue-axios": "^2.1.4",
+    "vue-paginate": "^3.6.0",
+    "vue-pagination": "^0.3.3",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1",
+    "vue-json-excel": "^0.2.96",
+    "vue-pagination-2": "^2.0.3",
+    "vue2-filters": "^0.3.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.4",
+    "@vue/cli-plugin-eslint": "^3.0.4",
+    "@vue/cli-plugin-unit-mocha": "^3.0.4",
+    "@vue/cli-service": "^3.0.4",
+    "@vue/eslint-config-standard": "^3.0.4",
+    "@vue/test-utils": "^1.0.0-beta.20",
+    "chai": "^4.1.2",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
