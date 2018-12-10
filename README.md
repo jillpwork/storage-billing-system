@@ -1,4 +1,4 @@
-# storage-billing-system project
+# Storage-billing-system project
 
 ## Project setup
 
