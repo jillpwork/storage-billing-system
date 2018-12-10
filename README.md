@@ -25,7 +25,7 @@ npm run build
 
 ### Specs
 
-**Frontend** : Vue2.js
+**Frontend** : Vue2.js <br /> 
 **Backend**  : Firebase.js and Firestore.js
 ---
 
