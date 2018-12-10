@@ -23,6 +23,10 @@ npm run serve
 npm run build
 ```
 
+### Specs
+
+**Frontend** : Vue2.js
+**Backend**  : Firebase.js and Firestore.js
 ---
 
 ### Screenshots
